@@ -1,57 +1,87 @@
-﻿Name,Age,Place_of_Origin,Height,Weight,Percentage_Used_in_Major_Tournaments,Unique_Ability
-Tachanka,48,Russia,180 cm,85 kg,25%,Mounted LMG
-Ash,32,Israel,170 cm,65 kg,80%,Breaching Rounds
-Thermite,36,USA,185 cm,80 kg,70%,Exothermic Charge
-Fuze,42,Russia,175 cm,90 kg,60%,Cluster Charge
-Sledge,40,Scotland,190 cm,100 kg,55%,Breach Hammer
-Doc,45,France,175 cm,75 kg,75%,Stim Pistol
-Rook,38,France,180 cm,85 kg,65%,R1N "Rhino" Armor Plates
-Jäger,35,Germany,180 cm,80 kg,70%,Active Defense System
-Valkyrie,30,USA,165 cm,60 kg,60%,Black Eye Cameras
-Mira,33,Spain,175 cm,70 kg,55%,Black Mirror
-Hibana,29,Japan,168 cm,55 kg,75%,X-KAIROS Launcher
-Echo,37,Japan,178 cm,75 kg,50%,Yokai Drone
-Montagne,39,France,195 cm,110 kg,45%,Extendable Shield
-Bandit,31,Germany,180 cm,75 kg,65%,Shock Wire
-Pulse,34,USA,183 cm,85 kg,55%,Heartbeat Sensor
-Vigil,28,South Korea,175 cm,70 kg,60%,ERC-7 Cloaking Device
-Mute,32,UK,180 cm,75 kg,70%,Signal Disruptor
-Capitão,40,Brazil,182 cm,80 kg,60%,Tactical Crossbow
-Frost,36,Canada,170 cm,65 kg,55%,Welcome Mat
-Caveira,33,Brazil,168 cm,60 kg,50%,Silent Step
-Blackbeard,34,USA,190 cm,90 kg,65%,Rifle Shield
-Buck,37,Canada,185 cm,85 kg,60%,Skeleton Key
-Ying,31,China,170 cm,65 kg,55%,Candela
-Lesion,33,Hong Kong,175 cm,70 kg,60%,Gu Mines
-Ela,28,Poland,165 cm,60 kg,65%,Grzmot Mines
-Zofia,30,Poland,170 cm,65 kg,60%,KS79 Lifeline
-Dokkaebi,27,South Korea,168 cm,55 kg,55%,Logic Bomb
-Maestro,42,Italy,180 cm,85 kg,55%,Evil Eye
-Alibi,29,Italy,170 cm,60 kg,50%,Prisma
-Maverick,35,USA,185 cm,80 kg,60%,Suri Torch
-Clash,31,UK,175 cm,70 kg,45%,CCE Shield
-Kaid,45,Morocco,175 cm,80 kg,50%,Rtila Electroclaw
-Nomad,34,Morocco,175 cm,70 kg,55%,Airjab Launcher
-Gridlock,33,Australia,170 cm,75 kg,50%,Trax Stingers
-Mozzie,32,Australia,178 cm,75 kg,55%,Pest Launcher
-Nøkk,30,Denmark,172 cm,65 kg,45%,HEL Presence Reduction
-Warden,41,USA,180 cm,85 kg,40%,Glance Smart Glasses
-Goyo,36,Mexico,180 cm,90 kg,50%,Volcán Shield
-Amaru,30,Peru,170 cm,65 kg,45%,Garra Hook
-Kali,38,India,175 cm,70 kg,50%,LV Explosive Lance
-Wamai,37,Kenya,185 cm,80 kg,45%,Magnet System
-Oryx,36,Jordan,190 cm,100 kg,40%,Remah Dash
-Iana,29,Netherlands,175 cm,65 kg,45%,Gemini Replicator
-Ace,34,Norway,180 cm,80 kg,50%,S.E.L.M.A. Aqua Breacher
-Zero,32,South Africa,178 cm,75 kg,45%,Argus Launcher
-Aruni,31,Thailand,170 cm,65 kg,40%,Surya Gate
-Thorn,34,Sweden,185 cm,85 kg,40%,Sentry Cameras
-Bolt,33,New Zealand,180 cm,80 kg,45%,Lightning Bolts
-Haze,30,Ireland,175 cm,70 kg,40%,Nimbus Drone
-Shade,35,Egypt,170 cm,75 kg,40%,Shadow Cloak
-Flash,32,Canada,180 cm,80 kg,45%,Photon Grenade
-Storm,33,Brazil,175 cm,85 kg,40%,Tempest Shield
-Blaze,36,Australia,185 cm,90 kg,45%,Inferno Launcher
-Nova,29,Russia,170 cm,70 kg,40%,Gravity Mines
-Dust,34,USA,180 cm,80 kg,45%,Sandstorm Grenades
-Quake,35,Germany,175 cm,85 kg,40%,Seismic Hammer
+Name,Age,Place of Origin,Height (cm),Weight (kg),Tournament Usage (%),Unique Ability
+Sledge,38,England,183,86,80,Breaching Hammer
+Thermite,36,United States,175,80,85,Exothermic Charge
+Ash,32,Israel,170,65,90,Breaching Round
+Twitch,29,France,168,58,75,Shock Drone
+Montagne,40,France,195,100,70,Extendable Shield
+Glaz,34,Russia,182,85,60,Flip Sight
+Fuze,37,Russia,185,90,65,Cluster Charge
+Blitz,30,Germany,175,80,70,Flash Shield
+IQ,31,Germany,172,68,75,Electronics Detector
+Buck,35,Canada,180,85,80,Skeleton Key
+Blackbeard,33,United States,178,82,75,Rifle Shield
+Capitão,39,Brazil,180,90,70,Asphyxiating Bolt
+Caveira,28,Brazil,165,60,65,Silent Step
+Hibana,30,Japan,165,55,80,X-Kairos Launcher
+Echo,37,Japan,177,75,70,Yokai Drone
+Jackal,34,Spain,180,85,75,Eyenox Model III
+Mira,32,Spain,170,70,70,Black Mirror
+Zofia,31,Poland,172,65,80,KS79 Lifeline
+Ela,29,Poland,168,60,75,Grzmot Mines
+Ying,33,China,175,65,70,Candela
+Lesion,36,Hong Kong,175,70,75,Gu Mines
+Dokkaebi,28,South Korea,170,60,70,Hacker
+Vigil,31,South Korea,180,75,70,ERC-7
+Maestro,42,Italy,185,90,70,EVIL EYE
+Alibi,30,Italy,170,65,70,Prisma
+Maverick,35,United States,180,80,75,Exothermic-S Torch
+Clash,29,United Kingdom,170,75,70,CCE Shield
+Nomad,33,Morocco,175,70,75,Airjab Launcher
+Kaid,40,Morocco,175,80,70,""Electroclaw""
+Gridlock,34,Australia,175,85,75,Trax Stingers
+Mozzie,32,Australia,175,75,70,Pest Launcher
+Warden,45,United States,183,90,70,Glance Smart Glasses
+Nøkk,30,Denmark,172,65,75,HEL Presence Reduction
+Amaru,31,Peru,170,70,70,Garra Hook
+Goyo,37,Mexico,180,85,75,Vulcan Shields
+Wamai,38,Kenya,185,90,70,Magnet System
+Kali,36,India,170,65,75,Lance
+Iana,28,Netherlands,170,60,70, Gemini Replicator
+Oryx,42,Jordan,190,100,75,Remah Dash
+Melusi,34,South Africa,170,70,70,Banshee Sonic Defense
+Aruni,32,Thailand,165,60,75,Surya Gate
+Florence,27,Ireland,175,65,70,Lucky Charm
+Riley,29,Canada,180,80,75,Adrenaline Boost
+Helios,35,Greece,180,85,70,Solar Flare
+Jin,30,China,175,75,75,Shadow Walk
+Valkyrie,33,Norway,172,70,70,Black Eye Cameras
+Frost,34,Canada,170,75,75,Welcome Mats
+Castle,36,United States,178,82,70,Armor Panels
+Pulse,37,United States,180,80,75,Heartbeat Sensor
+Doc,41,France,178,85,70,Stim Pistol
+Rook,39,France,180,90,75,R1N Armor Plates
+Kapkan,38,Russia,175,80,70,Entry Denial Device
+Tachanka,42,Russia,180,100,75,RP-46 Degtyaryov
+Mute,35,United Kingdom,175,75,70,Jammer
+Smoke,36,United Kingdom,180,80,75,Remote Gas Grenade
+Thorn,29,Ireland,175,70,70,Barbed Briers
+Kestrel,31,Australia,178,75,75,Strike Drones
+Holt,33,United States,185,85,70,Perimeter Alarm
+Quake,40,Japan,180,90,75,Tectonic Disruptor
+Viper,35,Germany,175,80,70,Neurotoxin Traps
+Phoenix,32,Spain,180,85,75,Incendiary Launcher
+Fury,34,South Africa,172,70,70,Anger Pulse
+Blaze,28,Brazil,180,75,75,Inferno Grenades
+Storm,39,United States,185,95,70,Lightning Strike
+Silence,32,France,175,68,75,Stealth Cloak
+Rogue,36,Canada,178,80,70,Shadow Step
+Frostbite,31,Sweden,180,85,75,Ice Traps
+Maelstrom,40,Netherlands,182,90,70,Tempest Grenades
+Nova,28,United Kingdom,170,65,75,Graviton Surge
+Spectre,33,Russia,178,75,70,Phantom Camo
+Ragnarok,37,Norway,185,100,75,Doomsday Device
+Aegis,35,Greece,175,80,70,Guardian Shield
+Blitzkrieg,30,Germany,178,85,75,Blitzkrieg Charge
+Falcon,39,Italy,182,88,70,Falcon Drone
+Volt,32,Spain,175,70,75,Electroshock
+Dreadnought,41,Australia,190,110,70,Ironclad Shield
+Oracle,34,Israel,172,75,75,Foreseeing Eye
+Nimbus,27,South Korea,168,60,70,Cloud Cover
+Phantom,38,United States,180,85,75,Invisibility Cloak
+Zenith,35,China,175,78,70,Peak Performance
+Sphinx,33,Egypt,175,75,75,Hieroglyphic Seals
+Titan,40,Scotland,185,95,70,Colossal Strength
+Quicksilver,31,Canada,175,70,75,Speed Dash
+Barrage,36,Brazil,180,90,70,Barrage Turret
+Tornado,29,United States,178,82,70,Cyclone Grenades
+Avalanche,42,Russia,190,100,75,Avalanche Charges
