@@ -1,0 +1,81 @@
+﻿Name,Age,Tournaments_Won,Game_Time_Spent,Salary,Country,KDA,Role
+"Jack ""Vigilance"" Smith",25,5,3000,5000,USA,1.2,Defender
+"Emma ""Shadow"" Chen",23,4,2800,4500,Canada,1.1,Roamer
+"Luca ""Sentinel"" Rossi",27,7,3200,5500,Italy,1.3,Defender
+"Alex ""Blitz"" Johnson",24,6,2900,4800,UK,1.5,Entry
+"Mia ""Watcher"" Kim",26,3,2700,4300,South Korea,1.0,Flank Watcher
+"Raul ""Hunter"" Gonzalez",28,8,3400,6000,Spain,1.4,Roamer
+"Sara ""Sentry"" Anderson",24,5,3100,5200,USA,1.2,Defender
+"Ahmed ""Infiltrator"" Ali",29,4,3000,5000,Egypt,1.1,Entry
+"Anna ""Viper"" Petrova",26,6,2900,4800,Russia,1.3,Defender
+"Chen ""Sneaky"" Wei",22,3,2800,4500,China,1.5,Roamer
+"Diego ""Doom"" Hernandez",27,7,3300,5600,Mexico,1.0,Entry
+"Lena ""Guardian"" Müller",25,5,3100,5200,Germany,1.4,Defender
+"Haruto ""Swift"" Tanaka",24,4,3000,5000,Japan,1.2,Roamer
+"Elena ""Echo"" Ivanova",26,6,2900,4800,Russia,1.1,Flank Watcher
+"Ricardo ""Raptor"" Silva",28,8,3400,6000,Brazil,1.3,Defender
+"Julia ""Jolt"" Volkova",24,5,3200,5400,Russia,1.5,Entry
+"Ali ""Ghost"" Mahmoud",29,3,3000,5000,Egypt,1.0,Flank Watcher
+"Isabella ""Immortal"" Moreau",26,7,3300,5600,France,1.4,Roamer
+"Javier ""Jaeger"" Morales",23,5,3100,5200,Spain,1.2,Defender
+"Cheng ""Cobra"" Li",22,4,2900,4800,China,1.1,Entry
+"Fatima ""Frost"" Al-Farsi",27,6,2800,4500,Saudi Arabia,1.3,Defender
+"Anatoli ""Apex"" Sokolov",25,8,3400,6000,Russia,1.5,Roamer
+"Nadia ""Nemesis"" Aziz",24,5,3200,5400,Egypt,1.0,Flank Watcher
+"Matias ""Maverick"" Fernandez",28,7,3000,5000,Argentina,1.4,Entry
+"Gabriela ""Glitch"" Costa",26,6,2900,4800,Brazil,1.2,Roamer
+"Leila ""Lioness"" Mansour",23,4,2700,4300,Lebanon,1.1,Defender
+"Lucas ""Laser"" Santos",24,5,3100,5200,Brazil,1.3,Entry
+"Sofia ""Shadow"" Gomez",27,8,3300,5600,Colombia,1.5,Flank Watcher
+"Ahmad ""Archer"" Hassan",29,6,3200,5400,Egypt,1.0,Roamer
+"Lila ""Lethal"" Rodriguez",24,7,3000,5000,Argentina,1.4,Defender
+"Mikhail ""Marauder"" Volkov",25,5,2900,4800,Russia,1.2,Entry
+"Elena ""Eclipse"" Petrov",26,4,2700,4300,Russia,1.1,Roamer
+"Nasser ""Ninja"" Al-Mansoori",23,5,3100,5200,Qatar,1.3,Defender
+"Omar ""Overwatch"" Ibrahim",24,6,3200,5400,Egypt,1.5,Entry
+"Zara ""Zephyr"" Khan",27,8,3300,5600,Pakistan,1.0,Roamer
+"Amira ""Aegis"" Nassar",29,7,3000,5000,Lebanon,1.4,Defender
+"Carlos ""Cataclysm"" Fernandez",24,5,2900,4800,Spain,1.2,Entry
+"Juan ""Juggernaut"" Rodriguez",25,4,2700,4300,Mexico,1.1,Roamer
+"Selena ""Specter"" Alvarez",26,5,3100,5200,Argentina,1.3,Defender
+"Ahmed ""Assassin"" Abdel-Rahman",23,6,3200,5400,Egypt,1.5,Entry
+"Alejandro ""Avalanche"" Martinez",24,7,3300,5600,Mexico,1.0,Roamer
+"Laura ""Lurker"" Fernandez",27,8,3000,5000,Spain,1.4,Defender
+"Rafael ""Reaper"" Costa",29,5,2900,4800,Brazil,1.2,Entry
+"Marina ""Mystic"" Silva",24,4,2700,4300,Portugal,1.1,Roamer
+"Alejandra ""Aphrodite"" Perez",25,5,3100,5200,Mexico,1.3,Defender
+"Diego ""Dreadnought"" Ramirez",26,6,3200,5400,Chile,1.5,Entry
+"Eva ""Enigma"" Garcia",23,7,3300,5600,Spain,1.0,Roamer
+"Santiago ""Sentinel"" Herrera",24,8,3000,5000,Argentina,1.4,Defender
+"Luis ""Lynx"" Rodriguez",27,5,2900,4800,Mexico,1.2,Entry
+"Amanda ""Avalanche"" Santos",29,4,2700,4300,Brazil,1.1,Roamer
+"Pedro ""Phantom"" Oliveira",24,5,3100,5200,Portugal,1.3,Defender
+"Raquel ""Ranger"" Mendes",25,6,3200,5400,Portugal,1.5,Entry
+"Andres ""Arsenal"" Diaz",26,7,3300,5600,Spain,1.0,Roamer
+"Maria ""Marauder"" Fernandez",23,8,3000,5000,Argentina,1.4,Defender
+"Joaquim ""Joker"" Silva",24,5,2900,4800,Portugal,1.2,Entry
+"Lucia ""Lynx"" Rodriguez",27,6,3200,5400,Spain,1.1,Roamer
+"Antonio ""Avalanche"" Santos",29,7,3300,5600,Brazil,1.3,Defender
+"Isabel ""Immortal"" Moreira",24,8,3000,5000,Portugal,1.5,Entry
+"Ricardo ""Raptor"" Ribeiro",25,5,2900,4800,Brazil,1.0,Roamer
+"Eduardo ""Eclipse"" Silva",26,6,3200,5400,Portugal,1.4,Defender
+"Ana ""Aegis"" Sousa",23,7,3300,5600,Portugal,1.2,Entry
+"Sara ""Specter"" Salazar",24,8,3000,5000,Spain,1.1,Roamer
+"João ""Juggernaut"" Santos",27,5,2900,4800,Portugal,1.3,Defender
+"Marta ""Mystic"" Martins",29,6,3200,5400,Portugal,1.5,Entry
+"Daniel ""Dagger"" Davis",28,4,2900,4800,USA,1.2,Entry
+"Yuki ""Yojimbo"" Nakamura",26,5,3100,5200,Japan,1.1,Roamer
+"Sven ""Spectre"" Jensen",25,6,3200,5400,Denmark,1.3,Defender
+"Eva ""Enigma"" Schmidt",24,7,3300,5600,Germany,1.5,Flank Watcher
+"Max ""Marauder"" Müller",23,8,3000,5000,Germany,1.0,Entry
+"Isabelle ""Inferno"" Dupont",27,5,2900,4800,France,1.4,Roamer
+"Arjun ""Assassin"" Patel",26,6,3200,5400,India,1.2,Defender
+"Sofia ""Sphinx"" Papadopoulos",25,7,3300,5600,Greece,1.1,Flank Watcher
+"Leon ""Lionheart"" Kovacs",24,8,3000,5000,Hungary,1.3,Roamer
+"Anya ""Avalanche"" Ivanova",23,5,2900,4800,Russia,1.5,Defender
+"Johan ""Juggernaut"" Johansson",27,6,3200,5400,Sweden,1.0,Entry
+"Elena ""Echo"" Sokolova",26,7,3300,5600,Russia,1.4,Roamer
+"Ravi ""Rampart"" Desai",25,8,3000,5000,India,1.2,Defender
+"Lina ""Laser"" Andersson",24,5,2900,4800,Sweden,1.3,Entry
+"Ahmed ""Apex"" Al-Mansoori",23,6,3200,5400,Qatar,1.5,Roamer
+"James ""Jinx"" Baker",28,4,3100,5200,Canada,1.1,Flank Watcher
